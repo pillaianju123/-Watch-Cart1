@@ -1,0 +1,43 @@
+
+.adminpage{
+    box-shadow: 5px 5px 10px 5px;
+    background-color: rgb(206, 161, 46);
+    margin-left: 180px;
+    padding: 100px;
+    margin-right: 180px;
+    text-align: center;
+    
+}
+.pass{
+    margin-left:4px;
+    margin-right:25px;
+    
+}
+.cpass{
+    margin-left:4px;
+    margin-right:85px;
+
+}
+.lbtn{
+    margin-left: 200px;
+    margin-right:100px;
+   margin-bottom: 100px;
+}
+.n{
+    margin-left:11px;
+}
+.a{
+    margin-left:10px;
+    margin-right: 9px;
+    margin-bottom: 5px;
+}
+.c{
+    margin-right:9px;
+     margin-bottom: 5px;
+}
+.d{
+    margin-right:9px;
+}
+
+
+

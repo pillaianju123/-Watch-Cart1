@@ -1,0 +1,83 @@
+.name{
+    margin-left:11px;
+    margin-right:20px;
+}
+.profile{
+    box-shadow: 5px 5px 10px 5px;
+    background-color: rgb(105, 163, 173);
+    margin-left: 300px;
+    padding: 100px;
+    margin-right: 300px;
+   text-align: center;
+
+}
+.email{
+    margin-left:35px;
+    margin-right:20px;
+}
+/* .btn1{
+    box-shadow: inset;
+    background-color: aliceblue;
+    align-items: right;
+} */
+/* .last{
+    box-shadow:5px 5px 10px 5px;
+    background-color: lightblue;
+    width:1500px;
+    height:200px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+  box-sizing: content-box;
+    
+
+} */
+.in{
+    margin-left:2px;
+    margin-right:20px;  
+}
+
+.Sbtn{
+    /* text-align: center; */
+    margin-left: 200px;
+    margin-right:100px;
+    
+}
+/* .wishbttn{
+    margin-bottom: 100px;
+    margin-left: 1px;
+} */
+
+.any{
+    background-color: lightcoral;
+    width:900px;
+    height: 200px;
+    padding:100px;
+    box-shadow: 2px,2px,3px,3px;
+    margin-left: 300px;
+    margin-right:300px;
+    margin-top: 20px;
+    text-align: right;
+
+}
+
+.ln{
+    background-color: lightcoral;
+    width:900px;
+    height: 200px;
+    padding:100px;
+    box-shadow: 2px,2px,3px,3px;
+    margin-left: 300px;
+    margin-right:300px;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.wishbttn{
+    text-align: center;
+    margin-right: 300px;
+}
+.carttbtn{
+    text-align: center;
+    margin-right: 300px;
+}

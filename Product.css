@@ -1,0 +1,35 @@
+.manage{
+    height:90px;
+}
+.title{
+    display:flex;
+    gap:10px;
+    padding-top: 10px;
+   
+}
+.text{
+    display:flex;
+    gap:10px;
+    padding-top: 10px;
+}
+.addbtn{
+    background-color:darkcyan;
+    margin-right:40px;
+    margin-left: 3dvh;
+    padding:5px;
+    gap:30px;
+    
+}
+.w{
+    width:350px;
+    height:25px;
+}
+.q{
+    width:350px; 
+}
+.ebtn{
+    background-color: darkgray;
+}
+.dbtn{
+    background-color: darkkhaki;
+}

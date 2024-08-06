@@ -1,0 +1,45 @@
+.manage{
+    background-color: grey;
+
+}
+.adminmain{
+   text-align: center;
+   text-decoration: solid;
+  
+
+   
+} 
+.abtn1{
+    margin-left: 300px;
+    /* margin-top:20px; */
+    /* margin-right:200px; */
+}
+.abtn2{
+    margin-left:258px;
+    margin-right:00px;
+}
+.abtn3{
+    margin-left:269px;
+    /* margin-right:900px; */
+}
+.main1{
+    margin-top: 100px;
+    display:flex;
+    background-color: darkgray;
+   
+}
+.main2{
+  display: flex;
+  background-color: darkgray;
+}
+.main3{
+    display:flex;
+    background-color: darkgray;
+}
+.manage{
+    box-shadow: 1px,2px,2px,3px;
+    background-color:darkgray;
+    height:900px;
+    
+    
+}

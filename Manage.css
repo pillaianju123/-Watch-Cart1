@@ -1,0 +1,12 @@
+.tab{
+    box-shadow: 2px 3px 5px 5px;
+    background-color: darkgray;
+    width:1500px;
+    height:500px;
+    padding-left: -100px;
+    padding-right: -100px;
+}
+.b{
+    background-color: darkgrey;
+    
+}

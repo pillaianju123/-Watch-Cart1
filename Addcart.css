@@ -1,0 +1,16 @@
+.i1{
+    display:flex;
+    width:500px;
+    height:500px;
+    box-shadow: 2px 3px 3px 4px black;
+    justify-content: center;
+}
+/* .btn1{
+    box-shadow: 1px,1px,2px,2px;
+} */
+/* .btn{
+    box-shadow: 1px,1px,2px,2px;   
+} */
+.b1{
+    background-color: cadetblue;
+}
